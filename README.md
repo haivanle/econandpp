@@ -34,3 +34,4 @@ This repository is for students interested in Economics and Public Policy.
 3. [Morgan Stanley Early Insights Program](https://morganstanley.tal.net/vx/candidate/apply/16329)
 4. [DESHAW&CO Fellowship](https://fellowships.deshaw.com)
 5. [INROADS Internship Program](https://inroads.org/internships-program/)
+6. [Institute for Recruitment of Teachers Mentoring Program](https://www.andover.edu/about/outreach/irt/irt-programs)
