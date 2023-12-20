@@ -19,7 +19,8 @@ This repository is for students interested in Economics and Public Policy.
 15. [Resources for the Future (RFF) Summer Internship](https://www.rff.org/careers/summer-research-internships/)
 16. [University of Washington Data Science for Social Good (DSSG)](https://escience.washington.edu/using-data-science/data-science-for-social-good/student-fellows/)
 17. [Coro Fellowship in Public Affairs](https://www.corofellowship.org)
-18. [New York City Urban Fellows](https://www.nyc.gov/site/dcas/employment/internship-and-fellowships-nyc-urban-fellows.page) 
+18. [New York City Urban Fellows](https://www.nyc.gov/site/dcas/employment/internship-and-fellowships-nyc-urban-fellows.page)
+19. [PGPF Fiscal Internship](https://www.pgpf.org/what-we-are-doing/grants/pgpf-fiscal-internship-program-in-washington-dc)
 
 ## Sources for Research Assistantship Opportunities
 1. Twitter: [EconRA](https://twitter.com/econ_ra), [PREDOC.org](https://twitter.com/predoc_org), [Women in Econ/Policy](https://twitter.com/weconpol), [Econ Job Market](https://twitter.com/EconJobMarket), [PhD Excellence Initiative](https://www.phdexcellence.org/apply/), 
