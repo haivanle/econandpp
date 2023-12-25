@@ -28,6 +28,7 @@ This repository is for students interested in Economics and Public Policy.
 3. [Fed Econ Jobs](https://www.fedeconjobs.org)
 4. [Microsoft Predoc](https://www.microsoft.com/en-us/research/) - Check out in September - October: Predoctoral Research Assistant
 5. [AEA Mentoring Program for Ph.D. students](https://www.aeaweb.org/about-aea/committees/csmgep/mentoring)
+6. [Kabir Banerjee Predoctoral Fellowship The Weiss Fund](https://bfi.uchicago.edu/weiss-fund-predoctoral-fellowship-call/)
 
 ## Other Cool Ones
 1. [O4U](https://www.outforundergrad.org)
