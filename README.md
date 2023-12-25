@@ -37,3 +37,4 @@ This repository is for students interested in Economics and Public Policy.
 4. [DESHAW&CO Fellowship](https://fellowships.deshaw.com)
 5. [INROADS Internship Program](https://inroads.org/internships-program/)
 6. [Institute for Recruitment of Teachers Mentoring Program](https://www.andover.edu/about/outreach/irt/irt-programs)
+7. [Bridge to BCG](https://careers.bcg.com/on-campus/programs/advanced-bridge-to-bcg)
