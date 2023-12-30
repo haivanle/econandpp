@@ -31,7 +31,7 @@ This repository is for students interested in Economics and Public Policy.
 5. [AEA Mentoring Program for Ph.D. students](https://www.aeaweb.org/about-aea/committees/csmgep/mentoring)
 6. [Kabir Banerjee Predoctoral Fellowship The Weiss Fund](https://bfi.uchicago.edu/weiss-fund-predoctoral-fellowship-call/)
 
-## Other Cool Ones
+## Other Cool Fellowships and Programs
 1. [O4U](https://www.outforundergrad.org)
 2. [Morgan Stanley Richard B. Fisher Scholarship Program](https://www.morganstanley.com/people-opportunities/students-graduates/morgan-stanley-richard-b-fisher-scholarship-program)
 3. [Morgan Stanley Early Insights Program](https://morganstanley.tal.net/vx/candidate/apply/16329)
@@ -42,3 +42,4 @@ This repository is for students interested in Economics and Public Policy.
 8. [UW Data Science for Social Good](https://escience.washington.edu/using-data-science/data-science-for-social-good/student-fellows/)
 9. [CMU Summer School in Logic and Formal Epistemology](https://www.cmu.edu/dietrich/philosophy/undergraduate/summer-school/)
 10. BAIN Connecting and Resourcing Empowered Women Program [CREW](https://www.bain.com/careers/work-with-us/internships-programs/crew/)
+11. [HeadStart Fellowship](https://www.headstartfellowship.com/fellowship)
