@@ -41,3 +41,4 @@ This repository is for students interested in Economics and Public Policy.
 7. [Bridge to BCG](https://careers.bcg.com/on-campus/programs/advanced-bridge-to-bcg)
 8. [UW Data Science for Social Good](https://escience.washington.edu/using-data-science/data-science-for-social-good/student-fellows/)
 9. [CMU Summer School in Logic and Formal Epistemology](https://www.cmu.edu/dietrich/philosophy/undergraduate/summer-school/)
+10. BAIN Connecting and Resourcing Empowered Women Program [CREW](https://www.bain.com/careers/work-with-us/internships-programs/crew/)
