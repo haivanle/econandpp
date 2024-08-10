@@ -44,3 +44,4 @@ This repository is for students interested in Economics and Public Policy.
 10. BAIN Connecting and Resourcing Empowered Women Program [CREW](https://www.bain.com/careers/work-with-us/internships-programs/crew/)
 11. [HeadStart Fellowship](https://www.headstartfellowship.com/fellowship)
 12. [Citi Freshman Discovery Program](https://reg.citiglobalevents.com/event/ece16076-905a-4633-8b0d-36a2556c3118/summary)
+13. [Ronald Reagan Presidential Foundation & Institute Civic Leaders Fellowship](https://www.reaganfoundation.org/reagan-institute/programs/civic-leaders-fellowship/)
