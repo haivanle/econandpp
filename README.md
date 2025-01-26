@@ -22,6 +22,8 @@ This repository is for students interested in Economics and Public Policy.
 18. [New York City Urban Fellows](https://www.nyc.gov/site/dcas/employment/internship-and-fellowships-nyc-urban-fellows.page)
 19. [PGPF Fiscal Internship](https://www.pgpf.org/what-we-are-doing/grants/pgpf-fiscal-internship-program-in-washington-dc)
 20. [RFF Summer Research Internship Program](https://www.rff.org/careers/summer-research-internships/)
+21. [Program for Research in Markets & Organizations](https://www.hbs.edu/doctoral/primo/Pages/program-details.aspx)
+22. [Summer Research Internship at Columbia](https://business.columbia.edu/research-resources/research-opportunities/summer-research-internship)
 
 ## Sources for Research Assistantship Opportunities
 1. Twitter: [EconRA](https://twitter.com/econ_ra), [PREDOC.org](https://twitter.com/predoc_org), [Women in Econ/Policy](https://twitter.com/weconpol), [Econ Job Market](https://twitter.com/EconJobMarket), [PhD Excellence Initiative](https://www.phdexcellence.org/apply/), 
