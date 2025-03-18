@@ -48,3 +48,4 @@ This repository is for students interested in Economics and Public Policy.
 12. [Citi Freshman Discovery Program](https://reg.citiglobalevents.com/event/ece16076-905a-4633-8b0d-36a2556c3118/summary)
 13. [Ronald Reagan Presidential Foundation & Institute Civic Leaders Fellowship](https://www.reaganfoundation.org/reagan-institute/programs/civic-leaders-fellowship/)
 14. [All Access Scholarship CRA](https://www.crai.com/community-advancement/all-access/cra-all-access-scholarship/)
+15. [Moss Adams Scholarship](https://www.mossadams.com/careers/campus)
