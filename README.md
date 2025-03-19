@@ -49,4 +49,3 @@ This repository is for students interested in Economics and Public Policy.
 13. [Ronald Reagan Presidential Foundation & Institute Civic Leaders Fellowship](https://www.reaganfoundation.org/reagan-institute/programs/civic-leaders-fellowship/)
 14. [All Access Scholarship CRA](https://www.crai.com/community-advancement/all-access/cra-all-access-scholarship/)
 15. [Moss Adams Scholarship](https://www.mossadams.com/careers/campus)
-16. [O4U](https://www.outforundergrad.org/apply)
