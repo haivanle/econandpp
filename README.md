@@ -33,7 +33,7 @@ This repository is for students interested in Economics and Public Policy.
 5. [AEA Mentoring Program for Ph.D. students](https://www.aeaweb.org/about-aea/committees/csmgep/mentoring)
 6. [Kabir Banerjee Predoctoral Fellowship The Weiss Fund](https://bfi.uchicago.edu/weiss-fund-predoctoral-fellowship-call/)
 
-## Other Cool Fellowships and Programs
+## Other Cool Fellowships and Programs for Undergraduates and Graduates
 1. [O4U](https://www.outforundergrad.org)
 2. [Morgan Stanley Richard B. Fisher Scholarship Program](https://www.morganstanley.com/people-opportunities/students-graduates/morgan-stanley-richard-b-fisher-scholarship-program)
 3. [Morgan Stanley Early Insights Program](https://morganstanley.tal.net/vx/candidate/apply/16329)
@@ -50,3 +50,5 @@ This repository is for students interested in Economics and Public Policy.
 14. [All Access Scholarship CRA](https://www.crai.com/community-advancement/all-access/cra-all-access-scholarship/)
 15. [Moss Adams Scholarship](https://www.mossadams.com/careers/campus)
 16. [Break Through AI](https://www.breakthroughtech.org/programs/the-ai-program/)
+17. [Akuna Capital Tech Sneak Peek Week Internship](https://akunacapital.com/work-with-us/internships/)
+18. [Citi Freshmen Discovery Program](https://jobs.citi.com/early-careers)
