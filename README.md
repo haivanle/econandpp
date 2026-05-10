@@ -33,7 +33,7 @@ This repository is for students interested in Economics and Public Policy.
 5. [AEA Mentoring Program for Ph.D. students](https://www.aeaweb.org/about-aea/committees/csmgep/mentoring)
 6. [Kabir Banerjee Predoctoral Fellowship The Weiss Fund](https://bfi.uchicago.edu/weiss-fund-predoctoral-fellowship-call/)
 
-## Other Cool Fellowships and Programs for Undergraduates and Graduates
+## Other Cool (& DEI) Fellowships and Programs for Undergraduates and Graduates - Some have been discontinued.
 1. [O4U](https://www.outforundergrad.org)
 2. [Morgan Stanley Richard B. Fisher Scholarship Program](https://www.morganstanley.com/people-opportunities/students-graduates/morgan-stanley-richard-b-fisher-scholarship-program)
 3. [Morgan Stanley Early Insights Program](https://morganstanley.tal.net/vx/candidate/apply/16329)
@@ -52,3 +52,64 @@ This repository is for students interested in Economics and Public Policy.
 16. [Break Through AI](https://www.breakthroughtech.org/programs/the-ai-program/)
 17. [Akuna Capital Tech Sneak Peek Week Internship](https://akunacapital.com/work-with-us/internships/)
 18. [Citi Freshmen Discovery Program](https://jobs.citi.com/early-careers)
+19. Jane Street Unboxed Program
+20. [Salesforce Futureforce Tech LaunchPad Program](https://info.codepath.org/futureforce-tech-launchpad)
+21. Google BOLD Internship
+22. [Explore Microsoft Internship](https://careers.microsoft.com/v2/global/en/exploremicrosoft)
+23. Capital One Technology Internship Program (TIP)
+24. [Google STEP (Student Training in Engineering Program)](https://www.google.com/about/careers/applications/buildyourfuture/programs/step)
+25. Meta University internship
+26. [Duolingo Thrive](https://blog.duolingo.com/duolingo-thrive-intern-program/)
+27. NVIDIA Ignite Internship
+28. [Amazon Future Engineer Scholarship](https://www.amazonfutureengineer.com/scholarships)
+29. IBM Accelerate
+30. [Jane Street Immersion Program (JSIP)](https://www.janestreet.com/join-jane-street/programs-and-events/jsip/)
+31. [New Technologists](https://newtechnologists.com/faq.html)
+32. Netflix Pathways Boot Camp
+33. [Google Summer of Code](https://summerofcode.withgoogle.com/)
+34. [Under Armour Rookie Program](https://careers.underarmour.com/content/Students/?locale=en_US)
+35. [Charles Schwab NERD](https://www.schwabjobs.com/nerd-program)
+36. [AbbVie EXCEL externship](https://www.abbvie.com/join-us/student-programs.html)
+37. [Bain Consulting Kickstart](https://www.bain.com/careers/work-with-us/internships-programs/consulting-kickstart/)
+38. Amazon Propel
+39. Palantir Path
+40. [Code 2040 Fellows Program](https://www.code2040.org/fellows-program)
+41. Dropbox Launch
+42. Uber STAR
+43. SPARX Internship at Activision
+44. Citadel Launch
+45. Zillow Engineering and Leadership Program
+46. Oracle First Year SWE internships
+47. [Break Through Tech](https://www.breakthroughtech.org/programs/the-ai-program/)
+48. [Netflix + Formation program](https://formation.dev/partners/netflix)
+49. [Bessemer Fellowship Program](https://www.bvp.com/bessemer-fellows)
+50. [Kleiner Perkins Fellows](https://www.kleinerperkins.com/fellows/)
+51. [8VC Fellowships](https://www.8vc.com/fellowships)
+52. [Thrive Capital Summer Fellowship](https://fellows.thrivecap.com/)
+53. [Capital One's Summits and Early Internship Programs](https://www.capitalonecareers.com/get-ahead-with-early-career-programs-for-students)
+54. [Women in Trading & Technology Internship](https://www.hudsonrivertrading.com/student-opportunities/)
+55. MongoDB Women in Computer Science Summit
+56. [Jane Street FOCUS](https://www.janestreet.com/join-jane-street/programs-and-events/focus/)
+57. Morgan Stanley Spring Insights program
+58. Facebook Design Summit
+59. [P&G Standout Emerging Leaders](https://www.pgcareers.com/us/en/Standout-Emerging-Leaders)
+60. [Discover Citadel](https://www.citadel.com/careers/programs-and-events/discover-citadel/)
+61. [Palantir Launch: Spring Program](https://www.palantir.com/careers/students/launch/)
+62. [Blackstone Future Innovators / Future Leaders / Real Estate Leaders](https://www.blackstone.com/our-impact/diversity-inclusion/)
+63. [Two Sigma's New Seekers Summit](https://www.twosigma.com/new-seekers-summit/)
+64. [Bain Building Entrepreneurial Leaders (BEL)](https://www.bain.com/careers/work-with-us/internships-programs/building-entrepreneurial-leaders/)
+65. [GWI's Summer Intensive Program](https://www.girlswhoinvest.org/sip)
+66. [Moelis Leadership Development Program](https://www.moelis.com/wp-content/uploads/2024/10/2025-Leadership-Development-Program-LDP.pdf)
+67. A&F Co. Corporate Sophomore Summit
+68. [RBC Women Advisory program](https://www.rbccm.com/en/careers/womens-advisory-program)
+69. [Virtu Financial’s Winternship](https://www.linkedin.com/posts/winternship-2026-ugcPost-7427723947586060288-ZlqO/)
+70. [UBS Tomorrow's Talent (Spring Insight) Program](https://www.ubs.com/global/en/careers/early-careers/tomorrows-talent-program.html)
+
+## Prospective Student Programs (mostly for PhDs)
+1. [Source](https://mcnairscholars.com/campus-visitations/)
+
+## Follow these people and orgs
+1. [AI Residency Program](https://github.com/dangkhoasdc/awesome-ai-residency)
+2. [More CS](https://luisae.github.io/opportunities/)
+
+
